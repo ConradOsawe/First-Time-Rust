@@ -1,4 +1,4 @@
-#Learning Rust for Solana and buidling projects along the way
+# Learning Rust for Solana and buidling projects along the way
 ```
 fn main () {
 println!("Hello World!");
