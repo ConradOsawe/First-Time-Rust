@@ -1,0 +1,10 @@
+# Learning rust and building projects along the way
+
+```
+fn main() {
+    println!("Hello World!");
+}
+```
+
+My first rust code too
+This code is a simple "Hello World!" program in Rust. It uses the `println!`
